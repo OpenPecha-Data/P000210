@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000210
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །རྣམ་རིག་གྲུབ་པའི་རྒྱན་ཞེས་བྱ་བ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས།
-  sku: IBA-RD-2-1
   layers:
   - book_title
   - author
   - quotation
+  id: IBA-RD-2-1
 web_metadata:
   title:
     en: The Ornament of Cittamatra
